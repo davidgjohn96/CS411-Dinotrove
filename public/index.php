@@ -15,7 +15,10 @@
 
     <ul>
       <li>
-        <a href="create.php"><strong>Create</strong></a> - add a user
+        <a href="createUser.php"><strong>Create</strong></a> - add a user
+      </li>
+      <li>
+        <a href="login.php"><strong>Login</strong></a>
       </li>
     </ul>
   </body>
